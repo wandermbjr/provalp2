@@ -20,6 +20,22 @@ public void setPersonalizacao(String personalizacao) {
 	this.personalizacao = personalizacao;
 }
 
+public String getPersonalizacao() {
+	return this.personalizacao;
+}
+
+public String getDescricao() {
+	return this.descricao;
+}
+
+public String getFormato() {
+	return this.formato;
+}
+
+public double getPreco() {
+	return 0.0;
+}
+
 
 
 
